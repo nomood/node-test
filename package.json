@@ -14,5 +14,9 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/nomood/node-test.git"
+    },
+    "scripts": {
+        "start": "node ./Hello-World.js"
     }
+
 }
