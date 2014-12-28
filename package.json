@@ -4,9 +4,8 @@
     "version": "0.0.1",
     "main": "./Hello-World.js",
     "author": {
-        "name": "Nomood",
-        "email": "nomood@free.fr"
-    },
+        "name": "Nomood"
+        },
     "keywords": [],
     "licenses": {
         "type": "none"
