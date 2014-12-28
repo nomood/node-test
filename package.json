@@ -1,0 +1,18 @@
+{
+    "name": "HelloWorld",
+    "description": "",
+    "version": "0.0.1",
+    "main": "./Hello-World.js",
+    "author": {
+        "name": "Nomood",
+        "email": "nomood@free.fr"
+    },
+    "keywords": [],
+    "licenses": {
+        "type": "none"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nomood/node-test.git"
+    }
+}
